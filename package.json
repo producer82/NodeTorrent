@@ -15,7 +15,9 @@
   "license": "ISC",
   "dependencies": {
     "bencode": "^2.0.1",
+    "crypto": "^1.0.1",
     "dgram": "^1.0.1",
+    "hex2ascii": "0.0.3",
     "html": "^1.0.0",
     "url": "^0.11.0"
   }
